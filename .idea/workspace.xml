@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e947c287-0e63-480d-b2ba-cbab6974d00d" name="Default Changelist" comment="" />
+    <list default="true" id="e947c287-0e63-480d-b2ba-cbab6974d00d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\_SERVER\Freelance\perfecto-node\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ZXxRBGpH1X07V4KJBkr2BPAzBy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tasker-app" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,7 +57,8 @@
       <updated>1584999229631</updated>
       <workItem from="1584999230949" duration="10284000" />
       <workItem from="1585011039309" duration="3906000" />
-      <workItem from="1585060069553" duration="23759000" />
+      <workItem from="1585060069553" duration="25295000" />
+      <workItem from="1585135711555" duration="1826000" />
     </task>
     <servers />
   </component>
@@ -50,10 +66,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1585012550547">
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1585135731700">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585012550547" />
+    <state x="740" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585135731700" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585014324380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
